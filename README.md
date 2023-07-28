@@ -24,7 +24,7 @@ Hi,I'm Chirag Singh🙌, an Automation Architect, Software Tester and Bug Hunter
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working as Senior Lead Technologist QA.
+- 🔭 I’m currently working as Senior Lead Architect.
 - 🌱 I’m running Free Automation Learning youtube channel.
 - 👯 I'm a full stack tester. Having knoweledge of UI,API,Mobile and DB testing.
 - 💬 Ask me about anything , Would love to answer them.✌
